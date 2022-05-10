@@ -90,7 +90,7 @@
     },
     breakpoints: {
       320: {
-        slidesPerView: 2,
+        slidesPerView: 3,
         spaceBetween: 40
       },
       480: {
@@ -126,7 +126,6 @@
       this.nextElementSibling.classList.toggle('dropdown-active')
     }
   }, true)
-
 
 
   /**
